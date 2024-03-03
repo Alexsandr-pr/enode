@@ -152,6 +152,8 @@ button {
 .btn__green::after {
     position: relative;
     left: 10px;
+    top:calc(50% - 8px);
+    transform: translateY();
     content:url(../img/icons/btn-arrow-right.svg);
 }
 @media(max-width:1200.98px) {
