@@ -1,0 +1,12 @@
+{
+  "name": "font fascia",
+  "id": "1221876625032535979",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ]
+}
