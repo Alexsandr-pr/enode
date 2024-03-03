@@ -1091,7 +1091,6 @@ align-items:center;
     border: 1px solid #00780C;
 }
 .mail__input::placeholder {
-    padding-left: 15px;
     color:#423F35;
 }
 @media(max-width:991.98px) {
